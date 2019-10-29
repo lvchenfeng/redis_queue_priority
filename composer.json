@@ -12,7 +12,7 @@
             "email": "huankong79@163.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "lvchenfeng\\": "src/"
