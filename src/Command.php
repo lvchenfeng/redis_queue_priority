@@ -21,6 +21,7 @@ class Command extends CliCommand
      * @var Queue
      */
     public $queue;
+
     /**
      * @var string
      */
