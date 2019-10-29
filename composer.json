@@ -1,5 +1,5 @@
 {
-    "name": "gwdong/redis-queue",
+    "name": "lvchenfeng/redis-queue",
     "description": "a redis queue with priority and can be delay",
     "type": "library",
     "require": {
@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Gwdong\\": "src/"
+            "lvchenfeng\\": "src/"
         }
     },
     "repositories": {

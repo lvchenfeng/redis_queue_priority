@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace Gwdong;
+namespace lvchenfeng;
 
 use yii\helpers\Console;
 use yii\queue\cli\Action;

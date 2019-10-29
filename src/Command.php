@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace Gwdong;
+namespace lvchenfeng;
 
 use yii\console\Exception;
 use yii\queue\cli\Command as CliCommand;

@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace Gwdong;
+namespace lvchenfeng;
 
 use yii\base\InvalidArgumentException;
 use yii\base\NotSupportedException;
